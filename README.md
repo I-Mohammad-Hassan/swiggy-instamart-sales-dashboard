@@ -99,12 +99,12 @@ The overall average rating is **3.92**, providing a high-level view of customer 
 | `Instamart DashBoard.png` | Dashboard screenshot |
 | `Instamart GIF.gif` | Animated dashboard demonstration |
 | `README.md` | Project documentation |
-| Power BI `.pbix` file | Interactive report, if included in the repository |
+| Power BI `.pbix` file | Interactive report |
 
 ## 🚀 How to Explore the Project
 
 1. Clone or download this repository.
-2. Open the `.pbix` file in Microsoft Power BI Desktop, if included.
+2. Open the `.pbix` file in Microsoft Power BI Desktop.
 3. Interact with the slicers to filter the report by opening year, city tier, and shop size.
 4. Compare category sales, shop-type performance, orders, and average ratings.
 5. Use the dashboard visuals to explore business performance across different segments.
