@@ -12,8 +12,6 @@ An interactive **Power BI sales analytics dashboard** built to explore sales per
 
 ![Swiggy Instamart Dashboard GIF Demo](https://raw.githubusercontent.com/I-Mohammad-Hassan/swiggy-instamart-sales-dashboard/f4987912bfb7140a27279b8e5d6e493b629af3a7/Instamart%20GIF.gif)
 
-[▶️ View Dashboard GIF](https://github.com/I-Mohammad-Hassan/swiggy-instamart-sales-dashboard/blob/f4987912bfb7140a27279b8e5d6e493b629af3a7/Instamart%20GIF.gif)
-
 ---
 
 ## 🎯 Project Objectives
